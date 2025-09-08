@@ -21,3 +21,8 @@ It is designed to serve as a starting point for building APIs that can call Mona
 ## Available APIs (via Postman Collection)
 
 The following API endpoints are included in the Postman collection:
+
+
+cd D:\Pupa\my_project
+go mod tidy
+go run main.go serve
